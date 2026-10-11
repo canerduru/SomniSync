@@ -1,0 +1,6 @@
+{
+  "name": "SomniSync",
+  "description": "Global neuro-social dream network with brutalist monochrome aesthetics, multi-lens dream analysis, and anonymous synastry.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
