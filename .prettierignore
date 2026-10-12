@@ -1,0 +1,8 @@
+node_modules
+.expo
+package-lock.json
+src/types/database.ts
+supabase/migrations
+supabase/tests
+supabase/.temp
+supabase/.branches
